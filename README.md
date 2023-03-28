@@ -28,8 +28,8 @@ man _printf
 ## Authors
 
 
-[@Robel Gebremariam](https://github.com/roba23)
-[@Rebecca Asigadom](https://github.com/Pomy12) 
+[@Roba Kebeba](https://github.com/robex192)
+[@Chera Dula](https://github.com/mamechera) 
 ## Version History
 * 0.1
     * Initial Release
