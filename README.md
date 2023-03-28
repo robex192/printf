@@ -25,13 +25,7 @@ The files used for this project and their description
 man _printf
 ```
 
-## Authors
 
-
-[@Robel Gebremariam](https://github.com/roba23)
-[@Rebecca Asigadom](https://github.com/Pomy12) 
-## Version History
-* 0.1
     * Initial Release
 
 
